@@ -2,8 +2,12 @@
 
 namespace Test
 {
-    public class Class1
+    public static class Class1
     {
-        
+        public static void Main()
+        {
+            Console.WriteLine("My Test App");
+            
+        }
     }
 }
