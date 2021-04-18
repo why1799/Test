@@ -2,6 +2,6 @@ namespace Test
 {
     public class NewTestClass
     {
-        //removed
+        //This is main branch changes
     }
 }
