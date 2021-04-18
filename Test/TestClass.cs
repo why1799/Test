@@ -7,8 +7,8 @@ namespace Test
         public static void Main()
         {
             Console.WriteLine("My Test App");
-            Console.WriteLine("Third5 version");
-            //And that is it3
+            Console.WriteLine("Third version");
+            //This is master
         }
     }
 }
