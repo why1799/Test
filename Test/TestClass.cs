@@ -8,7 +8,7 @@ namespace Test
         {
             Console.WriteLine("My Test App");
             Console.WriteLine("Third version");
-            //This is master test
+            //This is master test2
         }
     }
 }
